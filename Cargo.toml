@@ -1,0 +1,9 @@
+[package]
+name = "sr25519"
+version = "1.0.0"
+authors = [ "Runchao Han <me@runchao.rocks>" ]
+
+[dependencies]
+hex-literal = "0.3.3"
+rand = "0.7"
+schnorrkel = "0.10.1"
